@@ -1,3 +1,5 @@
 # Assessing the potential of land-use remote sensing data to predict incompleteness in OpenStreetMap
 
+# Abstract
+
 Analysing the completeness of OpenStreetMap is an endless research. This is because the data is often incomplete. There are various intrinsic and extrinsics methods to analyse the completeness of OSM. Extrinsic quality or completeness comparison usually require high quality reference data and this is usually not available in developing countries. In this paper, potential globally available land use data from GHS-SMOD (2019) from JRC is used and compared with OSM transportation layer. Two types of data-sets are used: complete (from the Netherlands and Belgium) and doubtful complete (from the Central African Republic). The probability distribution and difference in statistical function of road densities with respect to land-use classes shows potential to predict the incompleteness in OSM data. This is then validated manually by comparing OSM data with satellite imagery from Google. Scale-up of this approach can generalise the comparison of land-use and OSM transportation layer and expected level of completeness globally. 
